@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# File: checkpoint-manipulate.py
-
-
 import argparse
 import numpy as np
 
